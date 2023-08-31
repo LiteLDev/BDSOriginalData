@@ -1,0 +1,82 @@
+[
+    {
+        "Version": "1.19.50.22",
+        "ReleaseDate": "2022-10-26",
+        "VersionType": "Preview"
+    },
+    {
+        "Version": "1.16.42",
+        "ReleaseDate": "2020-09-22",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.14.60",
+        "ReleaseDate": "2020-04-15",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.14.1",
+        "ReleaseDate": "2019-12-18",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.14.30",
+        "ReleaseDate": "2020-02-11",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.14.20",
+        "ReleaseDate": "2020-01-28",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.16.50",
+        "ReleaseDate": "2020-09-22",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.16.61",
+        "ReleaseDate": "2020-09-25",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.19.50.23",
+        "ReleaseDate": "2022-11-03",
+        "VersionType": "Preview"
+    },
+    {
+        "Version": "1.16.60",
+        "ReleaseDate": "2020-09-23",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.10.1",
+        "ReleaseDate": "2019-03-27",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "0.8.0",
+        "ReleaseDate": "2013-11-21",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.4.1",
+        "ReleaseDate": "2018-05-25",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "0.15.0",
+        "ReleaseDate": "2016-04-27",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "0.12.1",
+        "ReleaseDate": "2015-09-09",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "0.12.0",
+        "ReleaseDate": "2015-07-29",
+        "VersionType": "Release"
+    }
+]
