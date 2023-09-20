@@ -78,5 +78,45 @@
         "Version": "0.12.0",
         "ReleaseDate": "2015-07-29",
         "VersionType": "Release"
+    },
+    {
+        "Version": "1.13.3",
+        "ReleaseDate": "2019-11-20",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.13.0",
+        "ReleaseDate": "2019-10-29",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.11.0",
+        "ReleaseDate": "2019-04-23",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.12.0",
+        "ReleaseDate": "2019-07-09",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.14.21",
+        "ReleaseDate": "2020-01-31",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.11.3",
+        "ReleaseDate": "2019-05-17",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.19.0",
+        "ReleaseDate": "2022-06-07",
+        "VersionType": "Release"
+    },
+    {
+        "Version": "1.18.10",
+        "ReleaseDate": "2022-02-08",
+        "VersionType": "Release"
     }
 ]
